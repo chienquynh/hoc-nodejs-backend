@@ -1,0 +1,27 @@
+{
+  "name": "fullstack_backend0",
+  "version": "1.0.0",
+  "description": "Duy chien provip",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chienquynh/hoc-nodejs-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "chien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chienquynh/hoc-nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/chienquynh/hoc-nodejs-backend#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
